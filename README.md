@@ -15,17 +15,13 @@ Implementar distintos modelos de aprendizaje supervisado para detección de text
 * [Dynamically Generated Hate Speech Data](https://www.kaggle.com/datasets/usharengaraju/dynamically-generated-hate-speech-dataset)
 
 ## **Modelos**
-Para el desarrollo de este proyecto s eusaron los siguientes modelos de ML:
 * MultinomialNB
 * GaussianNB
 * DecisionTree
 * RandomForest
 * SVMClassifier
-
-Además, se hizo uso de para reducción de dimensionalidad:
 * TruncatedSVD
-
-Por ultimo, se hizo una pequeña red neuronal para clasificación.
+* DNN
 
 ## **Presentación**
 [Video presentación YouTube](https://link)
