@@ -24,5 +24,6 @@ Implementar distintos modelos de aprendizaje supervisado para detección de text
 * DNN
 
 ## **Presentación**
-[Video presentación YouTube](https://link)
+[Video presentación YouTube](https://youtu.be/-Nh4KLeW8Bk)
+[Slides](https://docs.google.com/presentation/d/1G5hc2QpQvbMuM6wdAZZJa7Nm99A2AJaj/edit?usp=sharing&ouid=116767577113002104216&rtpof=true&sd=true)
 
